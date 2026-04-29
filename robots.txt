@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /logo-export/
+
+Sitemap: https://kalos.partners/sitemap.xml
